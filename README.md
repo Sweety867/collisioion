@@ -1,2 +1,2 @@
-# collisioion
-collision of two rectangles
+# collisionAlgorithm
+Algorithm to detect collision between two objects
